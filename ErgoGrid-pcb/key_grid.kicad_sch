@@ -1,0 +1,139 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "9c7169a9-b96c-48db-9ff0-bb54cac11c9b")
+	(paper "A4")
+	(lib_symbols)
+	(text "KEY GRID"
+		(exclude_from_sim no)
+		(at 28.448 20.066 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "35112bc8-03cd-48a5-b6e0-1e6541274f75")
+	)
+	(hierarchical_label "col_3"
+		(shape bidirectional)
+		(at 115.57 31.75 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4d4ba3bc-04f9-43d8-a672-9c5ca16337b2")
+	)
+	(hierarchical_label "col_1"
+		(shape bidirectional)
+		(at 82.55 33.02 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4eee3008-0a94-46ab-9aba-1131347577f3")
+	)
+	(hierarchical_label "col_4"
+		(shape bidirectional)
+		(at 138.43 31.75 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "52ae3add-99ff-40bd-a646-a60803437781")
+	)
+	(hierarchical_label "col_2"
+		(shape bidirectional)
+		(at 97.79 31.75 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "66392fd2-069a-436b-89f1-c865c2498cc1")
+	)
+	(hierarchical_label "col_5"
+		(shape bidirectional)
+		(at 151.13 31.75 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7179e5e6-2268-4804-8f8f-fa4d041032d7")
+	)
+	(hierarchical_label "row_1"
+		(shape bidirectional)
+		(at 38.1 52.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7472b5fe-f8f6-41bd-b48c-d072aa829818")
+	)
+	(hierarchical_label "col_0"
+		(shape bidirectional)
+		(at 67.31 35.56 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b05544f8-032f-493d-8205-2419b9558273")
+	)
+	(hierarchical_label "row_3"
+		(shape bidirectional)
+		(at 38.1 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b6acda47-782c-4773-adb5-416cb6e71b6f")
+	)
+	(hierarchical_label "RGB"
+		(shape bidirectional)
+		(at 38.1 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b903c9f0-5182-48f6-b1ed-ef3c74b75228")
+	)
+	(hierarchical_label "row_0"
+		(shape bidirectional)
+		(at 38.1 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e67d1c5a-382f-4a79-a1f3-0b8384398f09")
+	)
+	(hierarchical_label "row_2"
+		(shape bidirectional)
+		(at 38.1 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f94e56c1-aa73-4109-8130-8f8d3a244158")
+	)
+)
