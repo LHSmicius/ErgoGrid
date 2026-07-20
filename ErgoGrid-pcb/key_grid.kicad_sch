@@ -3889,7 +3889,7 @@
 		)
 		(uuid "ffb2ea20-6c85-4df8-91cb-bf6fa34efc45")
 	)
-	(global_label "encA"
+	(global_label "EncA"
 		(shape bidirectional)
 		(at 143.51 166.37 180)
 		(fields_autoplaced yes)
@@ -3899,9 +3899,9 @@
 			)
 			(justify right)
 		)
-		(uuid "b6418f2a-69af-4b02-8636-409db3b9e54d")
+		(uuid "5bbd2356-4387-4845-a121-c5bf09940fdf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 134.9987 166.37 0)
+			(at 134.9383 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3913,7 +3913,7 @@
 			)
 		)
 	)
-	(global_label "encB"
+	(global_label "EncB"
 		(shape bidirectional)
 		(at 143.51 171.45 180)
 		(fields_autoplaced yes)
@@ -3923,9 +3923,9 @@
 			)
 			(justify right)
 		)
-		(uuid "bc9dcd4a-f55c-4758-b259-1f10b3edc4a8")
+		(uuid "7f3126d3-1621-4a26-8914-f274ed0bd665")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 134.8173 171.45 0)
+			(at 134.7569 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
