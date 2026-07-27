@@ -4069,7 +4069,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00653fb6-1721-451c-995f-05b0b97a3efe")
-		(property "Reference" "JP26"
+		(property "Reference" "JP38"
 			(at 201.93 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4090,7 +4090,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 201.93 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -4132,7 +4132,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "JP26")
+					(reference "JP38")
 					(unit 1)
 				)
 			)
@@ -6741,7 +6741,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66d2e1b3-f7e7-4641-80ba-234011a74fee")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR028"
 			(at 38.1 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -6801,7 +6801,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "#PWR06")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -7261,7 +7261,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "77aa506d-4fbc-4baa-a7da-bb1dcda0e4d6")
-		(property "Reference" "SW21"
+		(property "Reference" "SW20"
 			(at 109.22 166.878 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7324,7 +7324,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "SW21")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -7874,7 +7874,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "96bc8f47-877d-4072-84c6-c848bd544938")
-		(property "Reference" "SW22"
+		(property "Reference" "SW21"
 			(at 128.27 166.878 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7937,7 +7937,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "SW22")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -8147,7 +8147,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "acee0939-2d17-4de3-8de5-a666b3ec7f84")
-		(property "Reference" "JP25"
+		(property "Reference" "JP37"
 			(at 182.88 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8168,7 +8168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 182.88 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8210,7 +8210,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "JP25")
+					(reference "JP37")
 					(unit 1)
 				)
 			)
@@ -8330,7 +8330,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b28b1462-892a-475d-a610-3c9472adf4f0")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR027"
 			(at 161.29 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8390,7 +8390,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "#PWR05")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -8577,7 +8577,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb67f14d-67af-4512-a219-437b8d0c4442")
-		(property "Reference" "SW19"
+		(property "Reference" "RE1"
 			(at 153.924 175.514 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8652,7 +8652,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "SW19")
+					(reference "RE1")
 					(unit 1)
 				)
 			)
@@ -9205,7 +9205,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5a5561d-a37f-4ffb-81a4-614940068654")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR029"
 			(at 139.7 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -9266,7 +9266,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "#PWR07")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -9749,7 +9749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "df5cad57-b079-4fed-85db-ff99f2d4d95c")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR030"
 			(at 153.67 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -9809,7 +9809,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "#PWR08")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -10292,7 +10292,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2e21a90-667f-41d8-9179-9892675ffcd6")
-		(property "Reference" "SW20"
+		(property "Reference" "SW19"
 			(at 90.17 166.878 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10355,7 +10355,7 @@
 		(instances
 			(project "ErgoGrid-pcb"
 				(path "/74a956b4-c88c-4954-9f37-5a65ad3d3678/0b5705a6-92dd-47ca-aedd-78d65c23ceb0"
-					(reference "SW20")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
