@@ -8662,7 +8662,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 			(at 82.55 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -8741,7 +8741,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical"
 			(at 45.72 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9983,7 +9983,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 			(at 53.34 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -10225,7 +10225,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 125.73 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -12277,7 +12277,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
 			(at 97.79 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -12359,7 +12359,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11005_1x05-1MP_P0.5mm_Horizontal"
 			(at 55.88 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -12923,7 +12923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7C"
 			(at 72.39 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13247,7 +13247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11005_1x05-1MP_P0.5mm_Horizontal"
 			(at 21.59 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -13339,7 +13339,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7C"
 			(at 72.39 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -13816,7 +13816,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
 			(at 97.79 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -13981,7 +13981,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical"
 			(at 62.23 43.18 0)
 			(hide yes)
 			(show_name no)

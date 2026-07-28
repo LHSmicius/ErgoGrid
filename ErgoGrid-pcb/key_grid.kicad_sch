@@ -4171,7 +4171,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 101.6 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -4273,7 +4273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 144.78 181.61 90)
 			(hide yes)
 			(show_name no)
@@ -4377,7 +4377,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 143.51 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4466,7 +4466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 63.5 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -4570,7 +4570,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 67.31 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -4660,7 +4660,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 181.61 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -4750,7 +4750,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 105.41 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -4840,7 +4840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 200.66 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5009,7 +5009,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 120.65 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -5112,7 +5112,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 101.6 175.26 90)
 			(hide yes)
 			(show_name no)
@@ -5215,7 +5215,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -5319,7 +5319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 162.56 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5568,7 +5568,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 82.55 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -5671,7 +5671,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 120.65 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -5774,7 +5774,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 120.65 175.26 90)
 			(hide yes)
 			(show_name no)
@@ -6118,7 +6118,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 48.26 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6208,7 +6208,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 143.51 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6298,7 +6298,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 143.51 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6387,7 +6387,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 82.55 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -6570,7 +6570,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 63.5 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -6674,7 +6674,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 124.46 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6921,7 +6921,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 86.36 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7010,7 +7010,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 44.45 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -7114,7 +7114,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 105.41 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7364,7 +7364,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 124.46 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7453,7 +7453,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 120.65 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -7557,7 +7557,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 48.26 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7807,7 +7807,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 48.26 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7976,7 +7976,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 82.55 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -8080,7 +8080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 86.36 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8249,7 +8249,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -8430,7 +8430,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 86.36 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8598,7 +8598,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 149.86 164.846 0)
 			(hide yes)
 			(show_name no)
@@ -8691,7 +8691,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 101.6 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -8874,7 +8874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -8978,7 +8978,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 143.51 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -9306,7 +9306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 105.41 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9396,7 +9396,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 67.31 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -9565,7 +9565,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 44.45 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -9668,7 +9668,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 101.6 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -9848,7 +9848,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 82.55 175.26 90)
 			(hide yes)
 			(show_name no)
@@ -9952,7 +9952,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 124.46 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -10122,7 +10122,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 67.31 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10211,7 +10211,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 63.5 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -10395,7 +10395,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 124.46 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -10564,7 +10564,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 44.45 118.11 90)
 			(hide yes)
 			(show_name no)
