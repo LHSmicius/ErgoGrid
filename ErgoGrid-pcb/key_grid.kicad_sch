@@ -4928,7 +4928,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 52.07 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5407,7 +5407,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 71.12 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -5487,7 +5487,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 52.07 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -5876,7 +5876,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 52.07 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -5956,7 +5956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 90.17 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -6036,7 +6036,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 71.12 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -6489,7 +6489,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 90.17 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6839,7 +6839,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 147.32 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -7202,7 +7202,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 147.32 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -7282,7 +7282,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 109.22 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -7645,7 +7645,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 90.17 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -7725,7 +7725,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 147.32 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -7895,7 +7895,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 128.27 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8518,7 +8518,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 128.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8793,7 +8793,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 128.27 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -9066,7 +9066,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 128.27 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -9146,7 +9146,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 109.22 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -9484,7 +9484,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 109.22 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -10040,7 +10040,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 71.12 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -10313,7 +10313,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 90.17 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10483,7 +10483,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 109.22 128.27 0)
 			(hide yes)
 			(show_name no)
