@@ -9,23 +9,25 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at -4.826 17.78 0)
+			(at -8.89 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "DRV2667"
-			(at 4.572 17.78 0)
+			(at 8.89 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias"
@@ -63,8 +65,8 @@
 		)
 		(symbol "DRV2667_1_1"
 			(rectangle
-				(start -7.62 16.51)
-				(end 7.62 -16.51)
+				(start -8.89 16.51)
+				(end 8.89 -16.51)
 				(stroke
 					(width 0)
 					(type solid)
@@ -74,7 +76,7 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -13.97 0)
+				(at -11.43 -13.97 0)
 				(length 2.54)
 				(name "PUMP"
 					(effects
@@ -92,7 +94,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 13.97 0)
+				(at -11.43 13.97 0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -110,7 +112,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 1.27 180)
+				(at 11.43 1.27 180)
 				(length 2.54)
 				(name "FB"
 					(effects
@@ -128,7 +130,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -19.05 90)
+				(at -1.27 -19.05 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -137,7 +139,7 @@
 						)
 					)
 				)
-				(number "4,5,6"
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -146,7 +148,45 @@
 				)
 			)
 			(pin power_in line
-				(at 10.16 13.97 180)
+				(at -1.27 -19.05 90)
+				(length 2.54)
+				(hide yes)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -1.27 -19.05 90)
+				(length 2.54)
+				(hide yes)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 13.97 180)
 				(length 2.54)
 				(name "SW"
 					(effects
@@ -155,7 +195,26 @@
 						)
 					)
 				)
-				(number "7,8"
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 13.97 180)
+				(length 2.54)
+				(hide yes)
+				(name "SW"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -164,7 +223,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 10.16 -11.43 180)
+				(at 11.43 -11.43 180)
 				(length 2.54)
 				(hide yes)
 				(name "NC"
@@ -183,7 +242,7 @@
 				)
 			)
 			(pin power_out line
-				(at 10.16 11.43 180)
+				(at 11.43 11.43 180)
 				(length 2.54)
 				(name "BST"
 					(effects
@@ -192,7 +251,7 @@
 						)
 					)
 				)
-				(number "10,11"
+				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -200,8 +259,27 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 10.16 8.89 180)
+			(pin power_out line
+				(at 11.43 11.43 180)
+				(length 2.54)
+				(hide yes)
+				(name "BST"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 8.89 180)
 				(length 2.54)
 				(name "PVDD"
 					(effects
@@ -219,7 +297,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 -6.35 180)
+				(at 11.43 -6.35 180)
 				(length 2.54)
 				(name "OUT+"
 					(effects
@@ -237,7 +315,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 -8.89 180)
+				(at 11.43 -8.89 180)
 				(length 2.54)
 				(name "OUT-"
 					(effects
@@ -255,7 +333,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 -13.97 180)
+				(at 11.43 -13.97 180)
 				(length 2.54)
 				(name "REXT"
 					(effects
@@ -273,7 +351,7 @@
 				)
 			)
 			(pin input line
-				(at -10.16 -8.89 0)
+				(at -11.43 -8.89 0)
 				(length 2.54)
 				(name "IN-"
 					(effects
@@ -291,7 +369,7 @@
 				)
 			)
 			(pin input line
-				(at -10.16 -6.35 0)
+				(at -11.43 -6.35 0)
 				(length 2.54)
 				(name "IN+"
 					(effects
@@ -309,7 +387,7 @@
 				)
 			)
 			(pin input line
-				(at -10.16 -1.27 0)
+				(at -11.43 -1.27 0)
 				(length 2.54)
 				(name "SCL"
 					(effects
@@ -327,7 +405,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -10.16 1.27 0)
+				(at -11.43 1.27 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -345,7 +423,7 @@
 				)
 			)
 			(pin output line
-				(at -10.16 11.43 0)
+				(at -11.43 11.43 0)
 				(length 2.54)
 				(name "REG"
 					(effects
@@ -355,6 +433,24 @@
 					)
 				)
 				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 1.27 -19.05 90)
+				(length 2.54)
+				(name "PAD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
 					(effects
 						(font
 							(size 1.27 1.27)
