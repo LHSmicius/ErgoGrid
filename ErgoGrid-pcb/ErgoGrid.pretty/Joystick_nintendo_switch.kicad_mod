@@ -1,0 +1,178 @@
+(footprint "Joystick_nintendo_switch"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fefc7d40-8eb3-4b83-9e27-77a1a2b08338")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Joystick_nintendo_switch"
+		(at 0 1.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cdb3d635-8ab1-4123-a8c2-bf2b55916ad9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b52aa269-7eef-459b-8be7-2a4778c56584")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c68704b-f29c-43f3-a5d0-9df67adb0858")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -7.75 -9.2)
+		(end -7.75 -5.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3fca83ed-cba6-4081-9ae6-359d4ba99b2e")
+	)
+	(fp_line
+		(start -7.75 -9.2)
+		(end -3.75 -9.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d476e09d-5041-4fa9-ae2d-27a44a16353d")
+	)
+	(fp_line
+		(start -7.75 9.2)
+		(end -7.75 8.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5d89acb-7b5e-4d1a-9ee9-afbb1d6dba84")
+	)
+	(fp_line
+		(start -7.75 9.2)
+		(end -3.75 9.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3b56ca6c-c7ca-4b0e-862f-7589b0a7da89")
+	)
+	(fp_line
+		(start 9.25 -9.2)
+		(end 8.25 -9.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2db9a08d-43c5-48b6-b58f-dbdac93cfae8")
+	)
+	(fp_line
+		(start 9.25 -9.2)
+		(end 9.25 -5.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b9cbf270-7a47-4c91-b5c3-a4f64c97004e")
+	)
+	(fp_line
+		(start 9.25 9.2)
+		(end 5.25 9.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8d697ad5-b8b3-4886-8e3c-b8240a20d368")
+	)
+	(fp_line
+		(start 9.25 9.2)
+		(end 9.25 5.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cf03f21c-77db-43b3-8f07-392f93e6cefb")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 7.5 0)
+		(stroke
+			(width 0.1)
+			(type dot)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c820df44-d924-4a96-ba9e-30e6b4afc3d1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a188772d-ad24-40db-9cf9-10aac2aa544f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "MP" thru_hole circle
+		(at -9.45 7)
+		(size 3.5 3.5)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "35eff4c7-c5fc-470d-8ee4-c3fd5a00c759")
+	)
+	(pad "MP" thru_hole circle
+		(at 7.05 -10.9)
+		(size 3.5 3.5)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ec544d45-e39e-412f-9788-223242e1c923")
+	)
+	(embedded_fonts no)
+)
